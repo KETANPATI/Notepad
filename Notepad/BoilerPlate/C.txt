@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Wel-come! To c Language");
+    return 0;
+}
